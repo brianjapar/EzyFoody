@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EzyFoody</string>
+    <string name="ezyfoody">EzyFoody</string>
+    <string name="fill_your_stomache_with_our_foodies">Fill your stomache with our Foodies.</string>
+    <string name="_2021_by_brian_karnadi_japar">© 2021 by Brian Karnadi Japar</string>
+    <string name="login">LOGIN</string>
+    <string name="drinks">Drinks</string>
+    <string name="foods">Foods</string>
+    <string name="snacks">Snacks</string>
+    <string name="top_up">Top Up</string>
+</resources>
